@@ -21,7 +21,7 @@
     "rxjs": "^5.0.0-beta.6",
     "zone.js": "^0.8.17",
     "babel-polyfill": "^6.26.0",
-	  "@types/jasmine": "^2.6.0"
+    "@types/jasmine": "^2.6.0"
   },
   "devDependencies": {
     "html-webpack-plugin": "^2.30.1",
