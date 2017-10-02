@@ -25,6 +25,7 @@
     "babel-polyfill": "^6.26.0",
     "@types/jasmine": "^2.6.0",
     "@types/node":"^8.0.31"
+    "@types/jasmine": "^2.6.0"
   },
   "devDependencies": {
     "html-webpack-plugin": "^2.30.1",
