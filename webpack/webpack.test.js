@@ -10,7 +10,7 @@ module.exports = {
     //        { exclude: '/node_modules/', loader: 'tslint', test: /\.ts$/ }
       // ],
         loaders: [
-            { loader: 'raw', test: /\.(css|html)$/ },
+            { loader: 'raw-loader', test: /\.(css|html)$/ },
             { exclude: /node_modules/, loader: 'ts-loader', test: /\.ts$/ }
         ]
     },
